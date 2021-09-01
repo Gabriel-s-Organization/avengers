@@ -1,0 +1,1 @@
+console.log8('Hola mundo desde JS');
